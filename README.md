@@ -3,7 +3,7 @@ Homework 9
 
 
 
-For the single training the time was = 
+For the single worker the  training the time was for one epoch 
 I have uploaded the weights and biases report for this as well in the repo
 
 For the parralel training I have created the notebook to run both workers but 
